@@ -1,0 +1,24 @@
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\Algoritmos\Examenes\3er Examen\Agente 2\bin\Debug\net5.0\Agente 2.exe
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\Algoritmos\Examenes\3er Examen\Agente 2\bin\Debug\net5.0\Agente 2.deps.json
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\Algoritmos\Examenes\3er Examen\Agente 2\bin\Debug\net5.0\Agente 2.runtimeconfig.json
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\Algoritmos\Examenes\3er Examen\Agente 2\bin\Debug\net5.0\Agente 2.runtimeconfig.dev.json
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\Algoritmos\Examenes\3er Examen\Agente 2\bin\Debug\net5.0\Agente 2.dll
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\Algoritmos\Examenes\3er Examen\Agente 2\bin\Debug\net5.0\ref\Agente 2.dll
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\Algoritmos\Examenes\3er Examen\Agente 2\bin\Debug\net5.0\Agente 2.pdb
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\Algoritmos\Examenes\3er Examen\Agente 2\obj\Debug\net5.0\Agente 2.csprojAssemblyReference.cache
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\Algoritmos\Examenes\3er Examen\Agente 2\obj\Debug\net5.0\Agente 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\Algoritmos\Examenes\3er Examen\Agente 2\obj\Debug\net5.0\Agente 2.AssemblyInfoInputs.cache
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\Algoritmos\Examenes\3er Examen\Agente 2\obj\Debug\net5.0\Agente 2.AssemblyInfo.cs
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\Algoritmos\Examenes\3er Examen\Agente 2\obj\Debug\net5.0\Agente 2.csproj.CoreCompileInputs.cache
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\Algoritmos\Examenes\3er Examen\Agente 2\obj\Debug\net5.0\Agente 2.dll
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\Algoritmos\Examenes\3er Examen\Agente 2\obj\Debug\net5.0\ref\Agente 2.dll
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\Algoritmos\Examenes\3er Examen\Agente 2\obj\Debug\net5.0\Agente 2.pdb
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\Algoritmos\Examenes\3er Examen\Agente 2\obj\Debug\net5.0\Agente 2.genruntimeconfig.cache
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\Algoritmos\Examenes\3er Examen\Agente 2\bin\Debug\net5.0\Experimental.System.Messaging.dll
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\Algoritmos\Examenes\3er Examen\Agente 2\bin\Debug\net5.0\FireSharp.dll
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\Algoritmos\Examenes\3er Examen\Agente 2\bin\Debug\net5.0\FireSharp.Serialization.JsonNet.dll
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\Algoritmos\Examenes\3er Examen\Agente 2\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\Algoritmos\Examenes\3er Examen\Agente 2\bin\Debug\net5.0\RestSharp.dll
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\Algoritmos\Examenes\3er Examen\Agente 2\obj\Debug\net5.0\Agente 2.csproj.CopyComplete
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\Algoritmos\Examenes\3er Examen\Agente 2\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\Algoritmos\Examenes\3er Examen\Agente 2\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
